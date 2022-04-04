@@ -10,5 +10,6 @@ from kivymd.app import MDApp #(for creating the App object)
 
 from bs4 import BeautifulSoup #(for parsing HTML pages and extracting data from them)
 
-## Schreenshots of the app
+## Schreenshot of the app
+![the-weather-a](https://user-images.githubusercontent.com/47313965/161512678-962e77a8-3dfb-4081-bc17-4be4b3c2d99c.png)
 
